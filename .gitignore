@@ -20,6 +20,7 @@
 /.sass-cache
 npm-debug.log
 yarn-error.log
+**/css/style.*.css
 
 # System Files
 .DS_Store
